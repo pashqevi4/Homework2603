@@ -1,0 +1,15 @@
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\bin\Debug\net6.0\task50.1.exe
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\bin\Debug\net6.0\task50.1.deps.json
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\bin\Debug\net6.0\task50.1.runtimeconfig.json
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\bin\Debug\net6.0\task50.1.dll
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\bin\Debug\net6.0\task50.1.pdb
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\task50.1.csproj.AssemblyReference.cache
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\task50.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\task50.1.AssemblyInfoInputs.cache
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\task50.1.AssemblyInfo.cs
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\task50.1.csproj.CoreCompileInputs.cache
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\task50.1.dll
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\refint\task50.1.dll
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\task50.1.pdb
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\task50.1.genruntimeconfig.cache
+C:\Users\pashq\Desktop\vsc proj\c#_practice\Homework2603\task50.1\obj\Debug\net6.0\ref\task50.1.dll
